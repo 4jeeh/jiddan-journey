@@ -1,0 +1,9 @@
+body {
+  background-image: url("../image/backgroundImage3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card-container {
+  padding-top: 150px;
+  padding-left: 60px;
+}

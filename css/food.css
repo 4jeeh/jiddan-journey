@@ -1,0 +1,13 @@
+body {
+  background-image: url("../image/backgroundImage2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.card-body {
+  overflow: auto;
+  max-height: 100px;
+}
