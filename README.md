@@ -28,10 +28,10 @@ All 4 original core pages have been modernized with responsive layouts, high con
 ## 📸 Preview Screenshots
 
 ### Home & Biodata (`index.html`)
-![Home Page Preview](image/preview-home.jpg)
+![Home Page Preview](image/preview-home-journey.jpg)
 
 ### Bekasi Destinations (`destination.html`)
-![Destination Page Preview](image/preview-destination.jpg)
+![Destination Page Preview](image/preview-destination-journey.jpg)
 
 ---
 
